@@ -100,7 +100,7 @@
     "redux-thunk": "^2.1.2",
     "reveal.js": "^3.3.0",
     "sass-loader": "^4.1.1",
-    "sinon": "^4.0.0",
+    "sinon": "^5.0.9",
     "sjcl": "1.0.7",
     "style-loader": "^0.16.0",
     "superagent": "^3.3.2",
