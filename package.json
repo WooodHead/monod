@@ -60,7 +60,7 @@
     "immutable": "^3.7.6",
     "jsdom": "^11.2.0",
     "json-loader": "^0.5.4",
-    "katex": "^0.8.2",
+    "katex": "^0.10.0-beta",
     "localforage": "^1.4.0",
     "lodash.isequal": "^4.5.0",
     "markdown-it": "^8.0.1",
