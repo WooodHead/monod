@@ -92,7 +92,7 @@
     "react-loader": "^2.1.0",
     "react-modal": "^1.6.5",
     "react-redux": "^5.0.2",
-    "react-test-renderer": "^15.6.1",
+    "react-test-renderer": "^16.4.1",
     "redux": "^3.5.2",
     "redux-debounced": "^0.4.0",
     "redux-logger": "^2.6.1",
